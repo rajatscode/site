@@ -12,5 +12,4 @@ template from [HTML5 UP](https://html5up.net), distributed under the terms of
 the CC BY 3.0 license.
 
 Template designed by [@ajlkn](https://aj.lkn.io/). Background image procedurally
-generated using [wwwtyro](http://github.com/wwwtyro)'s [space
-generator](http://wwwtyro.github.io/procedural.js/space/).
+generated using [wwwtyro](http://github.com/wwwtyro)'s [space image generator](http://wwwtyro.github.io/procedural.js/space/).
