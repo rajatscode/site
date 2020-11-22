@@ -229,7 +229,7 @@ input, select, textarea {
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #010101 url("images/bg.png") bottom left;
+		background: #010101 url("images/bg.webp") bottom left;
 		background-repeat: repeat;
 		height: 100%;
 		left: 0;
