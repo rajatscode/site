@@ -525,12 +525,12 @@ input, select, textarea {
 
 			#header > nav > ul.smallnav > li {
 				height: 2em;
-				line-height: 2.2em;
-				width: 2.25em;
+				line-height: 2em;
+				width: 2.07em;
 			}
 
 			#header > nav > ul.smallnav > li > a {
-				font-size: 0.55em;
+				font-size: 0.5em;
 			}
 
 				#header nav a:before {
