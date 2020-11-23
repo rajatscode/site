@@ -558,20 +558,20 @@ input, select, textarea {
 
 		#header h1 {
 			font-family: 'Suez One', sans-serif;
-			font-size: 3.65em;
+			font-size: 4.05em;
 			font-weight: 400;
 			letter-spacing: 0em;
 			line-height: 1em;
 		}
 
 		#header p {
-			font-size: 1.4em;
-			margin: 0.75em 0 0.25em 0;
+			font-size: 1.55em;
+			margin: 0.5em 0 0.25em 0;
 			opacity: 0.75;
 		}
 
 		#header nav {
-			margin: 1.5em 0 0 0;
+			margin: 0.7em 0 0 0;
 		}
 
 			#header nav li {
@@ -593,7 +593,7 @@ input, select, textarea {
 				opacity: 0;
 				position: relative;
 				top: 0;
-				width: 5.35em;
+				width: 5.6em;
 			}
 
 			#header nav a {
@@ -601,6 +601,21 @@ input, select, textarea {
 				-webkit-touch-callout: none;
 				border: 0;
 				display: inline-block;
+				font-size: 1.1em;
+			}
+
+			#header > nav > ul.smallnav > li {
+				margin: 0.22em 0 0 0;
+			}
+
+			#header > nav > ul.smallnav > li {
+				height: 2em;
+				line-height: 2.5em;
+				width: 3em;
+			}
+
+			#header > nav > ul.smallnav > li > a {
+				font-size: 0.65em;
 			}
 
 				#header nav a:before {
