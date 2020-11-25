@@ -519,20 +519,6 @@ input, select, textarea {
 				font-size: 1.1em;
 			}
 
-			#header > nav > ul.smallnav > li {
-				margin: 0.14em 0 0 0;
-			}
-
-			#header > nav > ul.smallnav > li {
-				height: 2em;
-				line-height: 2em;
-				width: 2.07em;
-			}
-
-			#header > nav > ul.smallnav > li > a {
-				font-size: 0.5em;
-			}
-
 				#header nav a:before {
 					-moz-transition: all 0.2s ease-in-out;
 					-webkit-transition: all 0.2s ease-in-out;
@@ -551,7 +537,7 @@ input, select, textarea {
 				}
 
 				#header nav a:hover {
-					font-size: 1.1em;
+					font-size: 1.15em;
 				}
 
 					#header nav a:hover:before {
@@ -560,7 +546,7 @@ input, select, textarea {
 					}
 
 				#header nav a:active {
-					font-size: 0.95em;
+					font-size: 1.15em;
 					background: none;
 				}
 
@@ -572,6 +558,24 @@ input, select, textarea {
 				#header nav a span {
 					display: none;
 				}
+
+			#header > nav > ul.smallnav > li {
+				margin: 0.14em 0 0 0;
+			}
+
+			#header > nav > ul.smallnav > li {
+				height: 2em;
+				line-height: 2em;
+				width: 2.07em;
+			}
+
+			#header > nav > ul.smallnav > li > a {
+				font-size: 0.5em;
+			}
+
+			#header > nav > ul.smallnav > li > a:hover {
+				font-size: 0.505em;
+			}
 
 /* Footer */
 
@@ -638,13 +642,29 @@ input, select, textarea {
 			font-size: 0.75em;
 		}
 
-			#header nav a:hover {
+			#header nav a {
 				font-size: 1em;
 			}
 
+			#header nav a:hover {
+				font-size: 1.05em;
+			}
+
 			#header nav a:active {
-				font-size: 1em;
-			} }
+				font-size: 1.05em;
+			}
+
+			#header > nav > ul.smallnav > li > a {
+				font-size: 0.45em;
+			}
+
+			#header > nav > ul.smallnav > li > a:hover {
+				font-size: 0.455em;
+			}
+
+			#header > nav > ul.smallnav > li > a:active {
+				font-size: 0.455em;
+			}
 
 /* Mobile (Portrait) */
 
